@@ -1,2 +1,3 @@
 Bu benim ilk git denemem
 Dosyamda değişiklik yapıyorum 1
+Dosyamda değişiklik yapıyorum 2 
