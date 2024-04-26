@@ -2,3 +2,4 @@ Bu benim ilk git denemem
 Dosyamda değişiklik yapıyorum 1
 Dosyamda değişiklik yapıyorum 2 
 Dosyamda bir kez daha değişiklik yapıyorum 3
+Dosyamda bir kez daha değişiklik yapıyorum 4 
